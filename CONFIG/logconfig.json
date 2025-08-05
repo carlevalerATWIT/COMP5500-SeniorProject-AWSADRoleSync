@@ -1,0 +1,10 @@
+{
+    "logsettings":  {
+                         "active":  true,
+                         "savelogonexit":  true
+                     },
+    "logfilename":  {
+                        "basename":  "AWS-Sync-Log",
+                        "extension":  ".txt"
+                    }
+}

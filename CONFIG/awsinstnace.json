@@ -1,0 +1,5 @@
+{
+    "awsinstance": "arn:aws:sso:::instance/ssoins-6684d23ea4f0ed54",
+    "identitystoreid": "d-9a6766c8f5",
+    "controller": "aws"
+}

@@ -1,0 +1,41 @@
+{
+    "groupMappings": [
+      {
+        "ad": "SITENAME123-ADMIN",
+        "aws": "SITENAME123-ADMIN"
+      },
+      {
+        "ad": "SITENAME123-READ",
+        "aws": "SITENAME123-READ"
+      },
+      {
+        "ad": "SITENAME123-WRITE",
+        "aws": "SITENAME123-WRITE"
+      },
+      {
+        "ad": "SITENAMEABC-ADMIN",
+        "aws": "SITENAMEABC-ADMIN"
+      },
+      {
+        "ad": "SITENAMEABC-READ",
+        "aws": "SITENAMEABC-READ"
+      },
+      {
+        "ad": "SITENAMEABC-WRITE",
+        "aws": "SITENAMEABC-WRITE"
+      },
+      {
+        "ad": "SITENAMEXYZ-ADMIN",
+        "aws": "SITENAMEXYZ-ADMIN"
+      },
+      {
+        "ad": "SITENAMEXYZ-READ",
+        "aws": "SITENAMEXYZ-READ"
+      },
+      {
+        "ad": "SITENAMEXYZ-WRITE",
+        "aws": "SITENAMEXYZ-WRITE"
+      }
+    ]
+  }
+  

@@ -1,0 +1,10 @@
+{
+    "backupsettings":  {
+                         "active":  true,
+                         "savelogonexit":  true
+                     },
+    "backupfilename":  {
+                        "basename":  "BackupData",
+                        "extension":  ".txt"
+                    }
+}
